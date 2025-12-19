@@ -1,3 +1,11 @@
-# FSD-practice-section
+# Campus Event Management Website
 
-//this is the website where people can use and learn.
+A simple static website built using HTML, CSS, and JavaScript.
+
+## Features
+- Landing page with title and description
+- Button with JavaScript interaction
+- Hosted using GitHub Pages
+
+## Live Website
+(Add GitHub Pages URL here after hosting)
