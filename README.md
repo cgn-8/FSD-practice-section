@@ -1,4 +1,4 @@
-# Campus Event Management Website
+# Campus Event Management Web
 
 A simple static website built using HTML, CSS, and JavaScript.
 
