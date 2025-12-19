@@ -8,5 +8,5 @@ A simple static website built using HTML, CSS, and JavaScript.
 - Hosted using GitHub Pages
 
 ## Live Website
-([Add GitHub Pages URL here after hosting](https://cgn-8.github.io/FSD-practice-section/))
+([this is the website url ](https://cgn-8.github.io/FSD-practice-section/))
 
