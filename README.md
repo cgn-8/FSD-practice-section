@@ -8,6 +8,5 @@ A simple static website built using HTML, CSS, and JavaScript.
 - Hosted using GitHub Pages
 
 ## Live Website
-(Add GitHub Pages URL here after hosting)
+([Add GitHub Pages URL here after hosting](https://cgn-8.github.io/FSD-practice-section/))
 
-raju gari enugu midha ray ray rubber rubber ray 
